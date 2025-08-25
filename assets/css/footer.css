@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 1rem 0 0 0;
+    background-color: #9d02077e;
+    width: 100%;
+    max-width: 100%;
+    color: #ffba08;
+}
+
+footer i {
+    font-size: 1.2rem;
+    color: #ffba08;
+    margin: 0 1rem 1rem 0;
+}
+
+footer p {
+    font-size: 1.2rem;
+}
+
+footer p i {
+    font-size: 1.2rem;
+    color: #ffba08;
+    margin: 0 1rem 0 1rem;
+}
+
+footer p i:hover,
+footer a i:hover {
+    color: #03071e;
+}

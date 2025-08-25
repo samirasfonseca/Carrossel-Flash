@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    background-image: url(../img/Dark\ Sun.jpg);
+    background-repeat: repeat-x;
+    background-size: contain;
+    height: 100%;
+}
+
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 2rem ;
+}
+
+.carousel__container__fundo {
+  background-color: #9d0208;
+  width: 83rem;
+  height: 25.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.carousel__container__fundo1 {
+  width: 80rem;
+  height: 24rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.carousel__track{
+  display:flex;             /* horizontal */
+  gap:1rem;
+  width: max-content;
+  height:100%;
+  animation: scroll 55s linear infinite;
+}
+
+@keyframes scroll {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%); /* metade do conteúdo -> repete em loop */
+  }
+}
+
+.carousel__track > img{
+  flex:1 1 0;               /* todas iguais inicialmente */
+  min-width:0;              /* permite encolher de verdade */
+  object-fit:cover;
+  border-radius:1rem;
+  transition:flex-grow .35s ease; /* anima suavemente */
+  cursor:pointer;
+}
+
+/* desktop: destaca no hover */
+.carousel__track:hover > img{ flex-grow:1; }
+.carousel__track > img:hover{ flex-grow:5; }
+
+/* mobile (classe .is-active será aplicada via JS) */
+.carousel__track > img.is-active{ flex-grow:5; }
+
+
