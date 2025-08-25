@@ -1,5 +1,8 @@
 # ⚡ Carrossel Flash  
 
+![Carrossel Flash](assets/img/carrossel-flash.gif)
+
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/samirasfonseca/carrossel-flash?color=yellow&style=for-the-badge)  
 ![GitHub stars](https://img.shields.io/github/stars/samirasfonseca/carrossel-flash?color=red&style=for-the-badge)  
 ![GitHub forks](https://img.shields.io/github/forks/samirasfonseca/carrossel-flash?color=blue&style=for-the-badge)  
@@ -33,25 +36,25 @@
 ---
 
 ## 📂 Estrutura do projeto  
-```bash
-Carrossel-Flash/
-│
-├── assets/
-│   ├── css/
-│   │   ├── main.css
-│   │   ├── navbar.css
-│   │   └── footer.css
-│   ├── js/
-│   │   └── main.js
-│   └── img/
-│       ├── flash1.jpg
-│       ├── flash2.jpg
-│       └── ...
-│
-├── index.html
-└── README.md
 
-👩‍💻 Autora
+Carrossel-Flash/<br>
+│<br>
+├── assets/<br>
+│   ├── css/<br>
+│   │   ├── main.css<br>
+│   │   ├── navbar.css<br>
+│   │   └── footer.css<br>
+│   ├── js/<br>
+│   │   └── main.js<br>
+│   └── img/<br>
+│       ├── flash1.jpg<br>
+│       ├── flash2.jpg<br>
+│       └── ...<br>
+│
+├── index.html<br>
+└── README.md<br>
+
+## 👩‍💻 Autora
 
 Feito com ❤️ por Samira Fonseca
 
