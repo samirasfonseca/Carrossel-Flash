@@ -1,12 +1,7 @@
 # ⚡ Carrossel Flash  
 
-![Carrossel Flash](assets/img/carrossel-flash.gif)
-
-
-![GitHub repo size](https://img.shields.io/github/repo-size/samirasfonseca/carrossel-flash?color=yellow&style=for-the-badge)  
-![GitHub stars](https://img.shields.io/github/stars/samirasfonseca/carrossel-flash?color=red&style=for-the-badge)  
-![GitHub forks](https://img.shields.io/github/forks/samirasfonseca/carrossel-flash?color=blue&style=for-the-badge)  
-![GitHub issues](https://img.shields.io/github/issues/samirasfonseca/carrossel-flash?color=orange&style=for-the-badge)  
+![Carrossel Flash](assets/img/Carrossel-Flash-Google-Chrome-2025-08-25-20-14-55.gif)
+  
 
 > 🔗 **Demo Online:** [Carrossel Flash no GitHub Pages](https://samirasfonseca.github.io/carrossel-flash/)  
 
@@ -66,4 +61,4 @@ Feito com ❤️ por Samira Fonseca
 
 ⭐ Se você gostou desse projeto, não esqueça de deixar uma estrelinha no repositório!
 
-⚡** “A velocidade não é nada sem controle. E no código, cada detalhe importa.” **
+⚡“A velocidade não é nada sem controle. E no código, cada detalhe importa.”
