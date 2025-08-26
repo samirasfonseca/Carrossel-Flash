@@ -7,7 +7,7 @@ body {
     min-height: 100vh;
     background-image: url(../img/Dark\ Sun.jpg); 
     background-repeat: repeat-x; 
-    background-size: contain; 
+    background-size: cover; 
 } 
 
     main { 
