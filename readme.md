@@ -1,9 +1,10 @@
 # ⚡ Carrossel Flash  
 
 ![Carrossel Flash](assets/img/Carrossel-Flash-Google-Chrome-2025-08-25-20-14-55.gif)
-  
 
-> 🔗 **Demo Online:** [Carrossel Flash no GitHub Pages](https://samirasfonseca.github.io/carrossel-flash/)  
+---
+
+## 🔗 **Demo Online:** [Carrossel Flash no GitHub Pages]([https://samirasfonseca.github.io/carrossel-flash/](https://samirasfonseca.github.io/Carrossel-Flash/))  
 
 ---
 
