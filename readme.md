@@ -57,7 +57,7 @@ Feito com ❤️ por Samira Fonseca
 
 ⚡ Extra
 
-<p align="center"> <img src="https://tenor.com/pt-BR/view/running-barry-allen-the-flash-ezra-miller-the-flash-movie-gif-6124209952182402217" width="250px" alt="The Flash correndo"/> </p>
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTl1NDN4aWdvMmM1ZXliOXlyNGNveGRyanBvdWE0cmV6ZmFtOWg0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjIhZGFWpbcGMAU/giphy.gif" width="250px" alt="The Flash correndo"/> </p>
 
 ⭐ Se você gostou desse projeto, não esqueça de deixar uma estrelinha no repositório!
 
